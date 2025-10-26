@@ -68,8 +68,6 @@ font-style: normal;
 }
 
 .section-hero {
-        width: 1440px;
-        height: 600px;
         background-color: #2e2f42;
 }
 
@@ -130,8 +128,6 @@ font-style: normal;
 }
 
 .list-team-pic {
-    width: 264px;
-    height: 260px;
     background-color: #FFFFFF;
 }
 
@@ -162,11 +158,6 @@ font-style: normal;
         text-transform: capitalize;
 }
 
-.list-portfolio-pic {
-        width: 360px;
-        height: 300px;
-}
-
 .portfolio-subtitle {
         font-weight: 500;
         font-size: 20px;
@@ -184,8 +175,6 @@ font-style: normal;
 
 
 .page-footer {
-        width: 1440px;
-        height: 312px;
         background-color: #2e2f42;
 }
 
@@ -200,8 +189,6 @@ font-style: normal;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-        width: 115px;
-        height: 24px;
         background-color: #2e2f42;
 }
 
