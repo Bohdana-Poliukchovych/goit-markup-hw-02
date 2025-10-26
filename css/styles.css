@@ -114,9 +114,12 @@ font-style: normal;
 }
 
 .section-team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
+.list-team-item {
+    background-color: #FFFFFF;
+}
 .title-team {
     font-weight: 700;
     font-size: 36px;
