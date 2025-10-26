@@ -127,6 +127,10 @@ font-style: normal;
     text-transform: capitalize;
 }
 
+.list-team {
+    background-color: #FFFFFF;
+}
+
 .list-team-pic {
     background-color: #FFFFFF;
 }
